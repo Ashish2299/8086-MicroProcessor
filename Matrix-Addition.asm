@@ -1,9 +1,4 @@
-;############################################################################
-;# 8086 Program to add two 4x4 Matrices and present result in decimal form  #
-;#       Author: kingspp                                                    #
-;############################################################################
 
-; Declaration Part
 .MODEL SMALL
 .DATA
 M DB 01H,02H,03H,04H   ; Matrix M is a 4x4 Matrix
